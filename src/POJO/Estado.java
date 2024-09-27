@@ -8,7 +8,5 @@ public enum Estado {
 	EN_PROCESO,
 	TERMINADA,
 	CANCELADA;
-	/*
-	 * MODIFICACION B
-	 */
+	
 }
