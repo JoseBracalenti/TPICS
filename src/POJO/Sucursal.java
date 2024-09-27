@@ -4,7 +4,10 @@ import java.time.LocalTime;
 import java.util.HashMap;
 
 public class Sucursal {
-	
+	/* 
+	 * CAMBIOS MUUUUUUY IMPORTANTES
+	 * 
+	*/
 	private int sucursal_id;
 	private String nombre;
 	private LocalTime horarioApertura;
