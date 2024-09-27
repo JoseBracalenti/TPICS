@@ -17,7 +17,6 @@ public class GestorSucursal {
 		}
 		return gestor;
 	}
-	
 	public Sucursal getSucursalById(int i) throws Exception{
 		Sucursal s = null;
         try {
