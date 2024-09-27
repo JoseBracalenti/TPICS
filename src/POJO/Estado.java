@@ -4,6 +4,7 @@ public enum Estado {
 	
 	PENDIENTE,
 	EN_PROCESO,
-	TERMINADA;
+	TERMINADA,
+	CANCELADA;
 	
 }
